@@ -3,7 +3,8 @@
     "type": "Feature",
     "properties": {
       "name": "Thai Tan Tien",
-      "popupContent": "Guesthouse. Nice bungalows, quiet beach, restaurant, best value for money on Long Beach. First hackers are staying here."
+      "popupContent": "Guesthouse. Nice bungalows, quiet beach, restaurant, best value for money on Long Beach. First hackers are staying here.",
+      "icon": "hut"
     },
     "geometry": {
       "type": "Point",
@@ -14,7 +15,8 @@
     "type": "Feature",
     "properties": {
       "name": "German B",
-      "popupContent": "German cafe and bar. Fast wi-fi, pool billards for free, fresh milk and cream, decent German food."
+      "popupContent": "German cafe and bar. Fast wi-fi, pool billards for free, fresh milk and cream, decent German food.",
+      "icon": "restaurant"
     },
     "geometry": {
       "type": "Point",
