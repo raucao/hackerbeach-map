@@ -76,8 +76,8 @@
         });
       }
 
-      // HELPERS
 
+      // Custom map icon class
       var LeafIcon = L.Icon.extend({
         options: {
           iconSize:     [32, 37],
@@ -89,7 +89,7 @@
         }
       });
 
-      // Helper for popups
+      // Add data and options on GeoJSON parsing
       var onEachFeature  = function (feature, layer) {
         if (feature.properties && feature.properties.popupContent) {
           var popupContent = '<h2>'+feature.properties.name+'</h2>';
@@ -107,4 +107,3 @@
     </script>
   </body>
 </html>
-
