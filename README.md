@@ -15,7 +15,7 @@ then doing a pull request. The format is a subset of
 [GeoJSON](http://geojson.org/), but it's really just a few attributes.
 
 The icons are sourced from http://mapicons.nicolasmollet.com and all 700+ icons
-are included. For the `icon` property, just browser their directory and use the
+are included. For the `icon` property, just browse their directory and use the
 lowercase name you see on the detail page of an icon.
 
 You can also contribute improvements to the app itself if you like (it's really
