@@ -1,0 +1,24 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Thai Tan Tien",
+      "popupContent": "Guesthouse. Nice bungalows, quiet beach, restaurant, best value for money on Long Beach. First hackers are staying here."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96663366809378, 10.187309937403557]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "German B",
+      "popupContent": "German cafe and bar. Fast wi-fi, pool billards for free, fresh milk and cream, decent German food."
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.9638870860625, 10.204352827547336]
+    }
+  }
+]
