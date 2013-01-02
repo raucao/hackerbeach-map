@@ -57,13 +57,6 @@
         maxZoom: 18
       }).addTo(map);
 
-      // Helper for popups
-      var onEachFeature  = function (feature, layer) {
-        if (feature.properties && feature.properties.popupContent) {
-          layer.bindPopup(feature.properties.popupContent);
-        }
-      }
-
       // Load places GeoJSON
       $.getJSON('places.json', function(data){
         renderPlaces(data);
@@ -76,6 +69,15 @@
             onEachFeature: onEachFeature
           }).addTo(map);
         });
+      }
+
+      // Helper for popups
+      var onEachFeature  = function (feature, layer) {
+        if (feature.properties && feature.properties.popupContent) {
+          var popupContent = '<h2>'+feature.properties.name+'</h2>';
+          popupContent += '<p>'+feature.properties.popupContent+'</p>';
+          layer.bindPopup(popupContent);
+        }
       }
 
     </script>
