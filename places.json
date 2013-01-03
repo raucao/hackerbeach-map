@@ -3,7 +3,7 @@
     "type": "Feature",
     "properties": {
       "name": "Thai Tan Tien",
-      "popupContent": "Guesthouse. Nice bungalows, quiet beach, restaurant, best value for money on Long Beach. First hackers are staying here.",
+      "description": "Guesthouse. Nice bungalows, quiet beach, restaurant, best value for money on Long Beach. First hackers are staying here.",
       "icon": "hut"
     },
     "geometry": {
@@ -15,7 +15,7 @@
     "type": "Feature",
     "properties": {
       "name": "Oyster Club",
-      "popupContent": "Beach-front cafe and bar. No wi-fi. Rents out windsurfing boards (and optionally instructs beginners).",
+      "description": "Beach-front cafe and bar. No wi-fi. Rents out windsurfing boards (and optionally instructs beginners).",
       "icon": "windsurfing"
     },
     "geometry": {
@@ -27,7 +27,7 @@
     "type": "Feature",
     "properties": {
       "name": "John's Tours",
-      "popupContent": "Booking agency for pretty much anything. Sets up a generator during power outages, so there's always wi-fi. Sells prepaid SIM cards with data usage included.",
+      "description": "Booking agency for pretty much anything. Sets up a generator during power outages, so there's always wi-fi. Sells prepaid SIM cards with data usage included.",
       "icon": "information"
     },
     "geometry": {
@@ -39,7 +39,7 @@
     "type": "Feature",
     "properties": {
       "name": "Paradise City Club",
-      "popupContent": "Bar and night club. Table football.",
+      "description": "Bar and night club. Table football.",
       "icon": "bar"
     },
     "geometry": {
@@ -51,7 +51,7 @@
     "type": "Feature",
     "properties": {
       "name": "Roary's",
-      "popupContent": "Beach-front bar and night club",
+      "description": "Beach-front bar and night club",
       "icon": "bar"
     },
     "geometry": {
@@ -63,7 +63,7 @@
     "type": "Feature",
     "properties": {
       "name": "Le Cap Breton",
-      "popupContent": "French restaurant. Good food. Specialties: galettes, crêpes, quiche.",
+      "description": "French restaurant. Good food. Specialties: galettes, crêpes, quiche.",
       "icon": "bar"
     },
     "geometry": {
@@ -74,8 +74,32 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Pharmacy",
+      "description": "Opposite to the hospital",
+      "icon": "drugstore"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.967657, 10.215207]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Pepper's Pizza",
+      "description": "Italian food, burgers, pizza. No wifi, food is ok, but nothing great.",
+      "icon": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96390199661255, 10.205708742141724]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "German B",
-      "popupContent": "German cafe and bar. Fast wi-fi, pool billards for free, fresh milk and cream, decent German food.",
+      "description": "German cafe and bar. Fast wi-fi, pool billards for free, fresh milk and cream, decent German food.",
       "icon": "restaurant"
     },
     "geometry": {

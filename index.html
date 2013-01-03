@@ -132,9 +132,9 @@
 
       // Add data and options on GeoJSON parsing
       var onEachFeature  = function (feature, layer) {
-        if (feature.properties && feature.properties.popupContent) {
+        if (feature.properties && feature.properties.name && feature.properties.description) {
           var popupContent = '<h2>'+feature.properties.name+'</h2>';
-          popupContent += '<p>'+feature.properties.popupContent+'</p>';
+          popupContent += '<p>'+feature.properties.description+'</p>';
           var icon = new LeafIcon({
             iconUrl: '/vendor/mapiconscollection/'+feature.properties.icon+'.png'
           });
