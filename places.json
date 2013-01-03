@@ -118,5 +118,29 @@
       "type": "Point",
       "coordinates": [103.99323, 10.17226]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Night Market",
+      "description": "Great for (sea)food, Apple and Facebook flip-flops, cheap fake shades and clothes size XS :)",
+      "icon": "market"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95854, 10.21549]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Town/Day Market",
+      "description": "Only (sea)food here and vegetables",
+      "icon": "market"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95895, 10.22071]
+    }
   }
 ]
