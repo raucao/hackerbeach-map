@@ -142,5 +142,17 @@
       "type": "Point",
       "coordinates": [103.95895, 10.22071]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Pagode",
+      "description": "Don't go downhill here with crappy bicycle, or you'll regret it :-)",
+      "icon": "bike_downhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.98954, 10.19634]
+    }
   }
 ]
