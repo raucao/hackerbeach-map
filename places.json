@@ -50,7 +50,7 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Roary's",
+      "name": "Rory's",
       "description": "Beach-front bar and night club",
       "icon": "bar"
     },
@@ -105,6 +105,54 @@
     "geometry": {
       "type": "Point",
       "coordinates": [103.9638870860625, 10.204352827547336]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Phu Quoc International Airport",
+      "description": "IATA: PQC, ICAO: VVPQ",
+      "icon": "airport"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.99323, 10.17226]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Night Market",
+      "description": "Great for (sea)food, Apple and Facebook flip-flops, cheap fake shades and clothes size XS :)",
+      "icon": "market"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95854, 10.21549]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Town/Day Market",
+      "description": "Only (sea)food here and vegetables",
+      "icon": "market"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95895, 10.22071]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Pagode",
+      "description": "Don't go downhill here with crappy bicycle, or you'll regret it :-)",
+      "icon": "bike_downhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.98954, 10.19634]
     }
   }
 ]
