@@ -14,6 +14,66 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Oyster Club",
+      "popupContent": "Beach-front cafe and bar. No wi-fi. Rents out windsurfing boards (and optionally instructs beginners).",
+      "icon": "windsurfing"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.97272764697561, 10.156009470061758]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "John's Tours",
+      "popupContent": "Booking agency for pretty much anything. Sets up a generator during power outages, so there's always wi-fi. Sells prepaid SIM cards with data usage included.",
+      "icon": "information"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96751343265065, 10.19421590238582]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Paradise City Club",
+      "popupContent": "Bar and night club. Table football.",
+      "icon": "bar"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96418907423869, 10.20476814820226]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Roary's",
+      "popupContent": "Beach-front bar and night club",
+      "icon": "bar"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.964148, 10.19352]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Le Cap Breton",
+      "popupContent": "French restaurant. Good food. Specialties: galettes, crêpes, quiche.",
+      "icon": "bar"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96757780566696, 10.194479888903308]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "German B",
       "popupContent": "German cafe and bar. Fast wi-fi, pool billards for free, fresh milk and cream, decent German food.",
       "icon": "restaurant"
