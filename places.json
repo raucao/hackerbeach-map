@@ -106,5 +106,17 @@
       "type": "Point",
       "coordinates": [103.9638870860625, 10.204352827547336]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Phu Quoc International Airport",
+      "description": "IATA: PQC, ICAO: VVPQ",
+      "icon": "airport"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.99323, 10.17226]
+    }
   }
 ]
