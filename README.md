@@ -35,6 +35,17 @@ If you find this helpful and want to buy me a beer, you can flattr the app on
 
 1JYdQzPuk1hXLekWTk8Hwgj4pM8LHaKPNf
 
+## To Do
+
+We had some ideas for new features already. Hack away, if you like:
+
+* Add the possibility of sharing your being at a place from the popup (create a
+  URL that opens the app with that place selected)
+* Create some helper that makes it easy to contribute a new place from the
+  current location
+* Add some kind of URI array to the properties and render buttons that link to
+  e.g. Wikipedia, Foursquare, etc.
+
 ## License
 
 Copyright (c) 2012 Sebastian Kippe <sebastian@kip.pe>
