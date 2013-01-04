@@ -103,6 +103,8 @@
         follow: true
       }).addTo(map);
 
+      L.control.scale().addTo(map);
+
       // Load places GeoJSON
       $.getJSON('places.json', function(data){
         renderPlaces(data);
