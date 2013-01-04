@@ -45,6 +45,8 @@ We had some ideas for new features already. Hack away, if you like:
   current location
 * Add some kind of URI array to the properties and render buttons that link to
   e.g. Wikipedia, Foursquare, etc.
+* Add a tile layer switching control. See https://gist.github.com/1804938 for
+  example configs
 
 ## License
 
