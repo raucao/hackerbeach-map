@@ -145,6 +145,11 @@
         }
       }
 
+      // Show coordinates in the console when clicking anywhere on the map
+      map.on('click', function(e) {
+        console.log(e.latlng);
+      });
+
     </script>
   </body>
 </html>

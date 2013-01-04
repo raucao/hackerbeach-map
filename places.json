@@ -146,6 +146,18 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "ATM (Vietcombank)",
+      "description": "In the middle of 2 other ATMs (the green one). Doesn't charge a fee.",
+      "icon": "atm-2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96733522415161, 10.194638258106753]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Pagode",
       "description": "Don't go downhill here with crappy bicycle, or you'll regret it :-)",
       "icon": "bike_downhill"
