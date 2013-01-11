@@ -179,4 +179,16 @@
       "coordinates": [103.98954, 10.19634]
     }
   }
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Cafe Tuong",
+      "description": "Coffee shop next to the harbor. Tennis adjacent if that's your thing. Serves beer in the evening.",
+      "icon": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95820, 10.21722]
+    }
+  }
 ]
