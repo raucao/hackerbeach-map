@@ -14,6 +14,18 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Lien Hiep Thanh",
+      "description": "Guesthouse with Wi-fi at beachfacing cafe/restaurant. It's just before Rorys bar. Some more hackers are staying here.",
+      "icon": "hut"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96445989608763, 10.19279034880987]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Oyster Club",
       "description": "Beach-front cafe and bar. No wi-fi. Rents out windsurfing boards (and optionally instructs beginners).",
       "icon": "windsurfing"
