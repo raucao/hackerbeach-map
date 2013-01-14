@@ -191,4 +191,16 @@
       "coordinates": [103.95820, 10.21722]
     }
   }
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Papparoti",
+      "descrption": "Roti bun and coffee shop. Really good buns, free wifi, power. (wifi PW papparoti123)",
+      "icon": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95933, 10.21619]
+    }
+  }
 ]
