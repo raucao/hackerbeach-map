@@ -195,7 +195,7 @@
     "type": "Feature",
     "properties": {
       "name": "Papparoti",
-      "descrption": "Roti bun and coffee shop. Really good buns, free wifi, power. (wifi PW papparoti123)",
+      "description": "Roti bun and coffee shop. Really good buns, free wifi, power. (wifi PW papparoti123)",
       "icon": "bakery"
     },
     "geometry": {
