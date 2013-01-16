@@ -184,11 +184,23 @@
     "properties": {
       "name": "Cafe Tuong",
       "description": "Coffee shop next to the harbor. Tennis adjacent if that's your thing. Serves beer in the evening.",
-      "icon": "restaurant"
+      "icon": "coffee"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [103.95820, 10.21722]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Papparoti",
+      "descrption": "Roti bun and coffee shop. Really good buns, free wifi, power. (wifi PW papparoti123)",
+      "icon": "bakery"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.95933, 10.21619]
     }
   }
 ]
