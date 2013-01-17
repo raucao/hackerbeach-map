@@ -194,6 +194,18 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Pho Restaurant",
+      "description": "Enjoy a bowl of delicious Pho (beef noodle soup), a Vietnamese speciality.",
+      "icon": "restaurant_korean"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96024346351624, 10.216126015914261]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "Papparoti",
       "description": "Roti bun and coffee shop. Really good buns, free wifi, power. (wifi PW papparoti123)",
       "icon": "bread"
