@@ -226,5 +226,17 @@
       "type": "Point",
       "coordinates": [103.9596962928772, 10.216400542988305]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "My Lan",
+      "description": "Nice restaurant with big hacktables right on a tropical beach. They have a wifi (slow and unreliable), so better bring something to teather and long extension cables if you need power.",
+      "icon": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [104.03578519821167, 10.055804169626038]
+    }
   }
 ]
