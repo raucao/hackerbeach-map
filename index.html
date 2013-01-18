@@ -60,6 +60,10 @@
         color: #fff;
         line-height: 26px;
       }
+      .leaflet-popup-content a {
+        color: #888;
+        font-size: 11px;
+      }
       @media (max-width:450px) {
         header h1, nav ul li {
           font-size: 12px;
@@ -145,6 +149,7 @@
         if (feature.properties && feature.properties.name && feature.properties.description) {
           var popupContent = '<h2>'+feature.properties.name+'</h2>';
           popupContent += '<p>'+feature.properties.description+'</p>';
+          popupContent += '<p><a href="?lat='+feature.geometry.coordinates[1]+'&lng='+feature.geometry.coordinates[0]+'">URL</a></p>';
           var icon = new LeafIcon({
             iconUrl: '/vendor/mapiconscollection/'+feature.properties.icon+'.png'
           });
