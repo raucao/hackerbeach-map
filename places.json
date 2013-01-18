@@ -230,6 +230,18 @@
   {
     "type": "Feature",
     "properties": {
+      "name": "Buddy's Ice Cream",
+      "description": "Ice cream shop and cafe. Insanely great ice cream from New Zealand – a bit pricey, but worth it. Also: good wi-fi and a room with sofas in the back.",
+      "icon": "icecream"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.96011471748352, 10.216516688986731]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "name": "My Lan",
       "description": "Nice restaurant with big hacktables right on a tropical beach. They have a wifi (slow and unreliable), so better bring something to teather and long extension cables if you need power.",
       "icon": "restaurant"
