@@ -98,18 +98,6 @@
   {
     "type": "Feature",
     "properties": {
-      "name": "Tung Linh",
-      "description": "A sign saying 'Free wifi' on the north sidewalk of Ba Mươi Thầng Tử street leads to a courtyard with a very friendly cafe",
-      "icon": "coffee"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [103.968098, 10.215348]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "name": "Pepper's Pizza",
       "description": "Italian food, burgers, pizza. No wifi, food is ok, but nothing great.",
       "icon": "restaurant"
