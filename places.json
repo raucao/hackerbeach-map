@@ -238,5 +238,17 @@
       "type": "Point",
       "coordinates": [104.03578519821167, 10.055804169626038]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Nhà của galfert",
+      "description": "Most of the time you will find only one lonely hacker here. Strangely enough this part of Hackerbeach has the worst weather situation ever. Seriously. The only positive thing about this place is the pretty decent internet connection.",
+      "icon": "wifi"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.18848, 53.11885]
+    }
   }
 ]
